@@ -1,0 +1,5 @@
+Wnioski:
+
+es5 - posiada var w Comlex
+
+es6 - posiada let w Complex
